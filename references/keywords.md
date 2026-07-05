@@ -1,0 +1,25 @@
+# 重要キーワード
+
+- VPoE
+- CTO
+- Engineering Manager
+- CP
+- Conwayの法則
+- Team Topologies
+- ストリームアラインドチーム
+- プラットフォームチーム
+- イネーブリングチーム
+- コンプリケイテッドサブシステムチーム
+- 認知負荷
+- DevOps
+- DORA Metrics
+- CI/CD
+- 技術的負債
+- ROI
+- PL / BS / CF
+- SDV
+- CASE
+- 組み込みC++
+- GitHub Copilot
+- Codex
+- AGENTS.md
